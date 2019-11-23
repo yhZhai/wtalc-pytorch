@@ -3,7 +3,9 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 import torch.nn.init as torch_init
-torch.set_default_tensor_type('torch.cuda.FloatTensor')
+
+torch.set_default_tensor_type('torch.FloatTensor')
+
 
 def weights_init(m):
     classname = m.__class__.__name__
@@ -23,16 +25,14 @@ class Model(torch.nn.Module):
 
         self.apply(weights_init)
 
-        #self.train()
+        # self.train()
 
     def forward(self, inputs, is_training=True):
-
         x = F.relu(self.fc(inputs))
         if is_training:
             x = self.dropout(x)
-        #x = F.relu(self.fc1(x))
-        #if is_training:
+        # x = F.relu(self.fc1(x))
+        # if is_training:
         #    x = self.dropout(x)
 
-        
         return x, self.classifier(x)

@@ -1,3 +1,10 @@
 .DS_Store
 .idea/
 __pycache__/
+ActivityNet1.2-Annotations/
+ActivityNet1.2-I3D-JOINTFeatures.npy
+*.log
+ckpt/
+logs/
+
+
