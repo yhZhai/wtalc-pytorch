@@ -29,10 +29,16 @@ class Dataset():
 
     def train_test_idx(self):
         for i, s in enumerate(self.subset):
-            if s.decode('utf-8') == 'validation':  # Specific to Thumos14
-                self.trainidx.append(i)
+            if 'thumos' in self.dataset_name.lower():
+                if s.decode('utf-8') == 'validation':
+                    self.trainidx.append(i)
+                else:
+                    self.testidx.append(i)
             else:
-                self.testidx.append(i)
+                if s.decode('utf-8') == 'training':
+                    self.trainidx.append(i)
+                else:
+                    self.testidx.append(i)
 
     def classwise_feature_mapping(self):
         for category in self.classlist:

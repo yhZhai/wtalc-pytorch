@@ -34,6 +34,6 @@ if __name__ == '__main__':
 
     for itr in range(args.max_iter):
         train(itr, dataset, args, model, optimizer, logger, device)
-        if itr % 10 == 0 and not itr == 0:
+        if itr % 1 == 0 and not itr == 0:
             torch.save(model.state_dict(), './ckpt/' + args.model_name + '.pkl')
             test(itr, dataset, args, model, logger, device)

@@ -34,6 +34,8 @@ def filter_segments(segment_predict, videonames, ambilist, factor):
 
 
 def getLocMAP(predictions, th, annotation_path, args):
+    train_set = 'validation' if 'thumos' in annotation_path.lower() else 'training'
+    val_set = 'test' if 'thumos' in annotation_path.lower() else 'validation'
     gtsegments = np.load(annotation_path + '/segments.npy', allow_pickle=True)
     gtlabels = np.load(annotation_path + '/labels.npy', allow_pickle=True)
     gtlabels = np.load(annotation_path + '/labels.npy', allow_pickle=True)
@@ -56,18 +58,18 @@ def getLocMAP(predictions, th, annotation_path, args):
     # keep training gtlabels for plotting
     gtltr = []
     for i, s in enumerate(subset):
-        if subset[i] == 'validation' and len(gtsegments[i]):
+        if subset[i] == train_set and len(gtsegments[i]):
             gtltr.append(gtlabels[i])
     gtlabelstr = gtltr
 
     # Keep only the test subset annotations
     gts, gtl, vn, dn = [], [], [], []
     for i, s in enumerate(subset):
-        if subset[i] == 'test':
+        if subset[i] == val_set:
             gts.append(gtsegments[i])
             gtl.append(gtlabels[i])
             vn.append(videoname[i])
-            dn.append(duration[i, 0])
+            dn.append(duration[i])
     gtsegments = gts
     gtlabels = gtl
     videoname = vn
