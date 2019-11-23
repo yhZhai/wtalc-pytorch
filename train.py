@@ -10,7 +10,7 @@ from torch.autograd import Variable
 from classificationMAP import getClassificationMAP as cmAP
 import time
 
-torch.set_default_tensor_type('torch.FloatTensor')
+# torch.set_default_tensor_type('torch.FloatTensor')
 
 
 def MILL(element_logits, seq_len, batch_size, labels, device):

@@ -11,7 +11,7 @@ from classificationMAP import getClassificationMAP as cmAP
 from detectionMAP import getDetectionMAP as dmAP
 import scipy.io as sio
 
-torch.set_default_tensor_type('torch.FloatTensor')
+# torch.set_default_tensor_type('torch.FloatTensor')
 
 
 def test(itr, dataset, args, model, logger, device):
@@ -49,11 +49,8 @@ def test(itr, dataset, args, model, logger, device):
 
     cmap = cmAP(instance_logits_stack, labels_stack)
     print('Classification map %f' % cmap)
-    print('Detection map @ %f = %f' % (iou[0], dmap[0]))
-    print('Detection map @ %f = %f' % (iou[1], dmap[1]))
-    print('Detection map @ %f = %f' % (iou[2], dmap[2]))
-    print('Detection map @ %f = %f' % (iou[3], dmap[3]))
-    print('Detection map @ %f = %f' % (iou[4], dmap[4]))
+    for i_iou, i_map in zip(iou, dmap):
+        print('Detection map @ %f = %f' % (i_iou, i_map))
 
     logger.log_value('Test Classification mAP', cmap, itr)
     for item in list(zip(dmap, iou)):

@@ -122,7 +122,7 @@ def getLocMAP(predictions, th, annotation_path, args):
         # Get list of all predictions for class c
         for i in range(len(predictions)):
             tmp = smooth(predictions[i][:, c])
-            threshold = np.max(tmp) - (np.max(tmp) - np.min(tmp)) * 0.5
+            threshold = np.max(tmp) - (np.max(tmp) - np.min(tmp)) * 0.75
             vid_pred = np.concatenate([np.zeros(1), (tmp > threshold).astype('float32'), np.zeros(1)], axis=0)
             vid_pred_diff = [vid_pred[idt] - vid_pred[idt - 1] for idt in range(1, len(vid_pred))]
             s = [idk for idk, item in enumerate(vid_pred_diff) if item == 1]
@@ -173,7 +173,7 @@ def getLocMAP(predictions, th, annotation_path, args):
 
 
 def getDetectionMAP(predictions, annotation_path, args):
-    iou_list = [0.1, 0.2, 0.3, 0.4, 0.5]
+    iou_list = [0.5, 0.6, 0.7, 0.8, 0.9]
     dmap_list = []
     for iou in iou_list:
         print('Testing for IoU %f' % iou)

@@ -4,7 +4,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 import torch.nn.init as torch_init
 
-torch.set_default_tensor_type('torch.FloatTensor')
+# torch.set_default_tensor_type('torch.FloatTensor')
 
 
 def weights_init(m):

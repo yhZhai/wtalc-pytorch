@@ -9,7 +9,7 @@ from train import train
 from tensorboard_logger import Logger
 import options
 
-torch.set_default_tensor_type('torch.FloatTensor')
+# torch.set_default_tensor_type('torch.FloatTensor')
 import torch.optim as optim
 
 if __name__ == '__main__':
@@ -28,7 +28,7 @@ if __name__ == '__main__':
     model = Model(dataset.feature_size, dataset.num_class).to(device)
 
     if args.pretrained_ckpt is not None:
-        model.load_state_dict(torch.load(args.pretrained_ckpt))
+        model.load_state_dict(torch.load(args.pretrained_ckpt, map_location=device))
 
     optimizer = optim.Adam(model.parameters(), lr=args.lr, weight_decay=0.0005)
 
