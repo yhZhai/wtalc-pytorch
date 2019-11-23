@@ -51,6 +51,7 @@ def test(itr, dataset, args, model, logger, device):
     print('Classification map %f' % cmap)
     for i_iou, i_map in zip(iou, dmap):
         print('Detection map @ %f = %f' % (i_iou, i_map))
+    print('AVG: {:.4f}%'.format(sum(dmap) / len(dmap)))
 
     logger.log_value('Test Classification mAP', cmap, itr)
     for item in list(zip(dmap, iou)):
