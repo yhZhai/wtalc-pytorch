@@ -1,0 +1,1574 @@
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000832 3859 68
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001260 4694 19
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000380 5638 10
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001137 4147 35
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001103 4790 90
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001121 2229 69
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000880 2172 95
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000016 1264 12
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000076 3396 38
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000890 6636 63
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001428 3974 62
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000951 4829 45
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001466 6405 72
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000371 6804 35
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000175 3312 57
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000452 864 28
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001213 6369 52
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001545 2718 31
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000462 10095 59 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000161 9659 1
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000982 5773 94
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000770 458 72
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000104 7035 2
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000432 3189 14
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000147 6598 83
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000190 1771 43
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001303 1967 85
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001478 1487 98
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001485 5412 63
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001073 17089 40 41
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001408 746 56
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000831 4629 34
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000252 6631 99
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001519 2034 73
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000528 5810 57
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000575 1757 19
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001543 5197 45
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001077 3283 46
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000407 4319 37
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001451 1131 78
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001125 743 31
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000098 2007 75 48
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000138 5622 75
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001226 5705 77
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001256 5286 51
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001564 2270 52
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000261 2071 18
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000025 4870 17 70
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001200 3064 52
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000306 1250 55
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000565 2096 93 46
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000985 3136 66
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000144 2398 67
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000542 8158 45
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000561 2908 29
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000572 7094 5
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000364 6386 82
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000699 3486 41
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001010 994 93 41
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000810 3617 98
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001445 12211 16
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000368 451 8
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001380 5319 83
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000651 5131 41
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001486 4067 6
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001568 2434 69
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000547 5460 36
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000174 4302 30
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000490 6148 42
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001156 4509 68
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000475 2193 85
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001250 3693 1
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001361 21579 54
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000829 5730 7 8
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000574 6330 80
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001144 1845 44
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000726 2401 7
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001528 4088 69
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000419 6701 89
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000620 1999 69
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001412 6362 77
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000801 6201 71
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000439 10169 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000495 480 97
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000943 5789 72
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000972 12346 63
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001475 2748 78
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000167 5962 22
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000418 5835 33
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001193 3000 88
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000398 1662 82
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000544 1302 11
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001253 3472 69
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000927 5127 7 8
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000876 23324 62
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000328 1545 99
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000808 3294 51
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000195 1593 37 36
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001211 1421 53
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000477 14610 42 43
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001111 2061 37
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001308 417 49
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000679 4338 73
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000900 4059 73
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001067 4511 28
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000313 5729 80
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000451 4934 34
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001037 2250 12
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000255 2979 68
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000081 2343 11
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001306 3094 4
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000947 6179 48
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000735 6262 88
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001151 1801 98
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001444 2319 62
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001086 2925 71
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000971 3721 58 62 63 66
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000054 10891 2
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001061 3267 23
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000320 3206 79
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001557 2905 47
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000910 4027 6
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001494 6247 34
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000181 1828 13
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001143 5067 76
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000156 4000 34
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001132 2439 96
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001057 7050 38
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001290 2377 57
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000790 5708 79
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001128 1810 58
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000017 9927 12
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000579 3824 34
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000817 4079 1
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001016 6203 24
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000934 1743 79
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000582 7098 5 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001282 3427 35
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000919 554 88
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001122 3271 24
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000158 3780 92
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001261 7736 14
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000543 5145 87
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001407 4359 73 63
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000346 2639 36 69
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000852 3015 18
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001052 3042 1
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000555 12691 60 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000082 3951 99
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001458 10965 7 8
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000926 2791 56
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000269 976 69
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000754 68647 52 5 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000048 2882 19
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000276 1129 47
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000014 1921 18
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001471 2657 7
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001126 6024 93 7 8
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000520 3599 3
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000773 2130 86
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000360 2097 77
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000480 3803 47
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000820 4758 17 70
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000467 2805 36
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000298 4861 83
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001482 752 14
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001116 2978 33
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000246 3589 5 4
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000619 13260 49
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000788 5603 83
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001332 3929 27
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000445 5428 77
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001208 5006 71
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000229 8097 4
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001507 14535 70
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000824 720 32
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000152 4059 80
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000583 7120 71
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000871 2497 16 70
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000217 2819 40 41
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001360 5261 5 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000141 3416 5 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001481 602 16 70
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000436 2742 17
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000433 7284 38
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000911 10099 16 70
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000587 823 2
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000349 5633 56
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000456 4034 34
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000799 2751 37
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000639 4856 80
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000107 3605 24
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001109 3672 34
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000748 5006 90
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001488 3852 28
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000084 13582 9
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000272 10736 34
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001293 7285 51
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000303 4563 83
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000410 6004 59
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000835 806 44
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000050 3371 74
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000160 2029 75
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000259 4741 41
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000984 2927 61
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001304 1299 82
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000797 3404 66
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000145 20219 66
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001435 7879 10
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001043 4371 32
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001060 4159 94
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001497 1807 55
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000941 5119 12
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001271 2662 82
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000642 871 89
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001505 6222 40 41
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001375 6177 86
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000669 3635 46
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000194 4445 77
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001509 5051 77
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000503 2521 68
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000035 6531 4
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001136 4671 53
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001395 2156 5
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000264 6699 55 34
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000637 1321 95
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000307 2958 29
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001571 3992 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000749 1035 78
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000497 19636 49
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000297 5465 28
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000921 4169 72
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000961 3858 18
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000811 1502 68
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000857 5572 59
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001542 45484 45 46
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001378 7085 18
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000568 6118 23
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000055 1962 68
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001491 1179 89
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000563 6242 58
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001315 840 65
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000613 6902 87
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000024 10020 48 81 87
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000142 24157 38
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000416 2164 11
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000894 870 59
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001480 1428 100
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001206 3189 95
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000057 6225 87
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000977 5296 1
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001351 6049 62
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000742 5310 94
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000414 10783 49
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001574 4283 77
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000562 4316 31
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000492 1682 85
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000253 5474 43
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000040 3060 73
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000589 5782 77
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000705 5329 41
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000157 2807 62
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000187 1397 15
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001341 2145 98
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000366 5178 19
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000676 2485 17
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000071 4520 87
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000296 3881 61
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001383 6479 93
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000030 4087 55
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000745 2999 14
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000907 6323 42
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000507 1894 40
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000868 3487 70
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000980 12734 58
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000909 11024 52
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000383 7417 45
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001013 12146 9
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000725 2016 47
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001170 1331 50
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001536 4980 90
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001155 4794 50
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000484 6510 10
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000135 4125 86
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001063 5923 80
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000822 4332 4
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001502 7921 61
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000491 6080 56
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001166 3611 21
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001102 2135 73
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000915 669 58
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000200 5570 16
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001524 2635 82
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001177 1519 32
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000512 5563 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001374 3914 2
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000763 4811 53
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000397 894 97
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000677 4716 33
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000759 19948 48
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000170 6766 28
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001525 14287 57
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001022 5249 38
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000782 2917 87 81
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001366 6250 72
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000119 6049 42
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000719 3698 77
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000125 1787 85
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000953 7526 59
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000132 2175 76
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000267 5672 22
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000530 2577 58
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000595 6539 24
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000301 3092 9
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001401 7108 28
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000290 12367 9
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000713 2609 53
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001292 6974 32
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000300 2745 3
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001147 6579 73
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001244 7022 0
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000001 2067 5
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000681 6220 98
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000212 798 2 3
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000003 5714 1
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001499 5638 83
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001232 994 89
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000697 18001 3
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000834 3428 17
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001212 4422 100
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000331 448 8
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000363 3704 75 48
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000208 3703 12
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001355 3802 73
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000358 1758 68
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000585 5784 89
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000627 6638 0
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000277 6709 88
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001054 1424 98 36
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000146 1852 18 19
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001321 6287 94
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000518 3439 91
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000126 2449 82
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000271 4898 37
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000599 1471 10
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000268 4485 65 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001429 11571 70 16
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000207 3923 80
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000884 6214 15 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001047 936 63
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000186 2476 73
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000867 2445 14
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000992 2067 17 70
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001500 2285 17
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000496 525 99
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000447 6715 87
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001510 6001 48
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000133 4023 33
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001476 3048 64
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001152 6664 58
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000906 3990 69
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001529 2394 61
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000668 2572 12
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000281 1815 94
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000949 16103 48
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001538 3442 57
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001548 4111 94
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001278 5185 73
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000932 6746 40
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000939 3791 93
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001544 6645 6
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001464 2505 86
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000070 11012 43
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001550 720 89
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000377 1779 30
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000463 1824 36
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001053 2372 37
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001033 3326 17
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001237 14061 52
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000616 905 46 22 23
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000655 6187 33
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000764 1536 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000557 6987 53 6
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000750 12211 63
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000597 4139 73
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000743 2296 27
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000282 2880 18
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000052 1922 87
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000385 3246 99
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000075 5871 69
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001326 1789 97
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000916 11871 65
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000020 5981 86
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000248 4665 83
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001477 4830 64 26 65
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001449 47343 56
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000933 7121 62
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000879 3108 74
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000066 195 19
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000567 1513 2
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001093 7131 96
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000694 2697 83
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001423 933 31
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000314 845 45
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000468 6094 99
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000049 4727 94
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000545 2463 85
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001049 1893 85
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001301 14226 43
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000570 3405 93
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001405 2459 67
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001178 5793 1
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000427 4121 83
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000881 4911 58 66
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000139 2291 81
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000517 4433 1
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001196 1454 62
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000610 34698 38
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001263 3756 3
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000728 35034 58
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000459 3412 31
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000299 5947 94
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000109 3986 73
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001394 2962 99
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001074 252 28
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001025 415 88
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001251 3350 49
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000266 1502 68
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001511 3134 76
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000168 1925 4
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000928 6935 0
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001386 1970 53
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000912 1441 54
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001082 4861 68
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000213 4596 81
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000489 3465 76
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001032 900 88
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001320 2819 94
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001336 1580 41
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001563 2571 79
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000009 3765 80
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001424 6076 83
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001106 3587 40
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001472 7188 48
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001347 6733 100
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000784 2218 95
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000333 3388 14
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001340 3034 66
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000893 2222 10
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000979 768 78
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001185 5776 53 45
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000038 14194 42
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001572 3430 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000122 1838 73
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001028 5427 30
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000453 1882 13
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001316 4199 63
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000988 4610 60 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001387 2730 30
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001560 5520 72
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000018 1797 54
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000609 4179 73
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000581 1170 74
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000304 4319 5 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000732 637 99
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000336 3793 16
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000978 3447 51
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000183 2371 80
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001167 3110 14
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000044 7018 5
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001030 2447 24
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001330 30118 47 46
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000967 5070 48
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000373 5844 79
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000923 14021 60 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000913 6525 70
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001240 900 11
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001241 5679 27
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001311 1192 31
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001069 6338 95
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000022 5563 87
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000249 17471 59 26 65
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001390 6868 83
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001012 5962 79
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000731 2736 24
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000573 5174 73
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001363 4593 32
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000729 3823 59 26 65
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000488 518 85
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001382 3754 12
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000134 4227 34
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001342 1350 27
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000500 4260 56
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000265 3011 5
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000858 1528 36
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000279 39865 52 5 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000189 2210 100
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000042 3196 3
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001432 3060 0
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000596 4716 82
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000411 780 13
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000233 2645 40
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000338 3898 37
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000359 2448 2
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000692 4136 70
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000069 386 54
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000631 1373 85
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001091 3684 24
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000029 1599 97
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001504 13950 43
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000827 5269 32
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000551 2130 15
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001087 2130 86
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000406 5073 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000973 3134 90
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001573 7130 22
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001427 885 3
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001233 7081 90
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000381 2903 60 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000033 3369 46
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000686 8634 40 41
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000310 2302 66
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001379 4326 14
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001274 5962 99
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001338 6123 33
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000063 4297 1
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000209 10666 64 61
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000032 1101 67
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000805 2222 28
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000862 2493 68
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000768 8014 55
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001172 4794 79
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000641 2144 82
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001275 5814 76
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001027 1045 71 7
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001297 2496 24
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000151 2922 24
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001461 14324 37
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000409 4758 86
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001302 6487 48
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000917 6539 79
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000605 1639 54
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001252 1375 68
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000688 1545 91
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001344 5533 75
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000600 23442 61
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000399 13237 9 7
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000775 4420 77
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001541 7077 1 70
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000536 180 64
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000559 5968 77
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001272 1371 96
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000036 4358 39
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000088 625 88
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000993 2112 69
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001552 2406 33
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000592 26713 71
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000704 4291 89
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000578 13541 70
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000780 3721 33
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000891 14954 47
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001561 4309 87
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000094 9000 43
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001104 5929 92
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000554 7016 58
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000352 2885 11
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000904 1988 19
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000227 1117 55
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001023 6256 38
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000806 6337 57
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000905 2188 18
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001492 4823 73
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001520 16684 55
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001465 2324 65 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000257 4805 69
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000875 13529 100
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000833 3493 68
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001224 7593 65 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000322 7503 55
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001352 749 67
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001404 981 97
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000552 11274 45
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000222 20617 64 26 65
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000309 4723 12
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000015 4850 61 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001526 4382 51
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000402 3585 42 43
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000348 3279 4
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000526 1432 76
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000422 4107 22
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000284 1957 88
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000696 2401 79
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000258 1472 18 31
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001422 4136 29
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000860 3755 79
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000311 5680 85
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001228 2425 93 21 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000092 2396 4
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000848 4500 7
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000090 5256 68
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001381 2537 75
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001140 1364 97
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000375 6366 60 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001420 1067 46
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000945 1952 68
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001523 11779 58
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000321 3827 67
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000002 8277 41 40
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001197 2759 82
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000184 6947 18
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000294 12671 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001157 4232 56
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000889 5315 49
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001029 3891 15 16
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001289 1045 88
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001062 3601 4
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001085 2975 2
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001000 2639 94
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000059 4781 81
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000430 19836 38
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000487 13200 55
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000315 843 99
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000976 3130 48
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001210 4446 33 12
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001533 2051 68
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000240 435 62
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001493 3230 74
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000401 5410 81
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001239 6764 1
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000695 3068 62
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001181 3228 17
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000850 795 13 19
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000813 3558 82
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000584 3826 83
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000330 13669 55
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000715 5150 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001410 5765 42
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001296 5966 71
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000566 7040 16
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001487 2254 93
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000065 4902 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000865 6912 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001138 3510 38
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000390 4470 3
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000640 10843 64
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000606 3525 79
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001377 3413 90
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000080 10962 71
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000206 2346 79
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001553 3944 24
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001259 5491 72
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000580 1503 98
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000612 4320 4
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001454 48440 49
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000711 3908 94
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001413 3547 71
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000479 6524 39
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000454 2068 75
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000332 1866 29
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000210 5556 63
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000043 5523 81
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000031 1257 80
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001517 2485 51
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001007 2718 27
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001385 3227 61
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000680 5226 74
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000872 6871 43
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001006 2916 54
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000326 878 89
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001001 2586 57
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000162 18105 42 46
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001450 6729 75
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000263 1422 100
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000628 15091 66
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001150 1187 95
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000077 1671 89
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000110 6493 14
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000744 2141 97
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000232 1255 36
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001034 2557 3
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001217 5815 2
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000008 3633 27
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000524 440 96
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000830 3648 61
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001501 10254 47
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000159 1801 94
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000638 2568 89
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000870 11664 55
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001099 5376 5 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000316 1901 76
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001467 6642 19
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001397 902 24
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000856 20393 49
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000388 6412 19
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000117 3789 9
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000260 6299 72
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001115 1559 89
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000955 11751 37
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001298 3215 62
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000172 4810 6
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000483 3907 41
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000424 4197 11
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001190 3138 59
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000861 3659 1
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000205 2804 83
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000251 4563 51
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000632 6457 27
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001373 3149 56
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001455 9109 46
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000201 7001 100
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001362 3543 8
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000529 3580 29
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000327 9688 71 10
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001265 2361 46
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000690 9110 48
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001214 6541 0
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000105 3781 36
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000425 6973 59
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001045 4231 48
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000774 5306 71
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000223 1555 31
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000702 2166 88
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000478 2188 33
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000219 2377 76
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000516 4766 0
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000546 2390 4
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000721 5529 1
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000576 3909 2
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000604 2190 14
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000883 5658 0
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000703 3629 34
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000091 12794 9
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000957 1296 82
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000707 4490 82 10
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000645 6232 69
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001088 4079 19
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000708 6139 78
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000674 6046 79 1
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001199 2156 69
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001537 5858 75
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001011 1349 88
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000471 4008 60 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001097 7611 51
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000361 4272 97
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000067 5460 10
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001521 5639 13
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001004 622 31
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000169 6427 99
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000458 2977 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001300 2137 46
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000344 4181 60
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001090 3599 81
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000116 4641 1
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001234 1111 17
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000163 729 58
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001018 539 47
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000840 4670 39
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001448 10338 0
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001400 24342 47
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001051 3465 7 8
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000318 5634 85
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000508 1923 12
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000630 3935 0
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001242 5270 40 41
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001120 12117 43
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000164 6541 17
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001370 3785 10
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000608 643 35
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000384 23548 86
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000356 5414 93
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000041 3279 31 18
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000470 2382 34
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000378 1221 53
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000902 4198 83
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000739 6292 98
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000999 5685 89
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001418 6440 79
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001133 2246 3
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000741 2021 15
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001516 5403 98
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000956 5599 33
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000625 2297 32
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001396 6822 12
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000166 5546 72
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000772 13903 58 66
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001364 4619 77
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000662 2015 57
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001175 4102 62
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001184 1252 35
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001277 5644 70
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000287 1922 79
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000998 1323 86
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001227 7051 12
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000096 8129 45
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001220 3576 17 70
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000106 3014 48
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000525 2885 87
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001048 2342 63
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000498 4389 86
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001333 1434 8
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001225 827 75
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001337 4074 71
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000778 17864 63
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000670 16069 55
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000710 5545 80
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000922 944 7
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000087 3576 51
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000800 2558 27
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000693 3963 69
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000962 252 53
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000334 3237 82
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000428 8231 0
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000969 3507 13
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000323 899 63
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000340 2410 82
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000966 78526 49
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001328 4764 76
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001376 2293 36
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000709 6060 58
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000717 2048 64
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000115 3709 90
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000010 5591 59
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000482 2400 2
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000243 8194 9
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000633 4532 15
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000382 868 89
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000078 4188 40
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000954 10267 70
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001437 2519 34
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001059 4813 40 41
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001245 1988 19
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000629 4578 76
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000224 2566 34
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000148 2602 29
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001089 7380 70
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000819 12227 66
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001254 4133 81
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001540 2525 40
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001346 948 99
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000841 13709 17 70
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001291 6956 16 70
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001514 3404 14
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000683 3788 29
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000809 1867 82
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001105 2844 5 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001287 6978 81
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000888 17940 45
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000736 4908 89
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000121 71241 63
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000803 6449 61
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000534 6657 80
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000511 5777 80
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000660 2043 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000197 4945 33
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001503 6372 27
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001406 3224 80
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001192 5388 74
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000738 9776 38
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000389 3818 12
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001243 2739 33
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001354 2047 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000019 3603 79
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000942 6550 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000564 2754 54
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000531 6464 15
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000997 1777 59
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001284 3178 66 63
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000712 5098 16 70
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001348 3481 76
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000103 7124 76
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001002 3214 76
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000415 1800 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001372 2979 29
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000079 6917 69
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000866 1107 3
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000386 4051 16
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000095 6118 30
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000521 2755 48
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000618 1698 74
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001534 615 15
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000400 4293 24
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000460 1950 13
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000509 5701 56
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001187 3359 46 14
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000769 801 39
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000990 1436 4
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001414 4132 100
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000523 9646 52 41
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001026 3812 79
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000823 448 28
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000747 4077 6
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001530 4127 90
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000047 3799 73
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001403 3339 79
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000127 2463 47
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000341 4023 27
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000239 6412 31
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001083 1860 73
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000965 4710 11
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000203 5548 79
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001441 7982 60 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000746 1589 62
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001546 5156 7
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000100 3159 31
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000118 5612 75
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000012 2490 74
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001095 6125 62
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000522 734 87
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000685 5147 92
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000408 13601 86
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001317 2614 68
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000446 4619 83
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000136 3462 29
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000493 270 28
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000034 2293 13
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001221 7534 70
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000761 3217 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000684 2140 69
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000974 3674 58
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001119 2539 19
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000877 2403 75
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001068 6864 38
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001310 826 38
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001070 17507 51
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000256 2969 100
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000295 12958 43
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001349 3135 73
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001421 5081 12
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001003 5888 27
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000996 3294 83
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001399 10746 10
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001215 5805 89
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000365 20448 45 46
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001469 3885 47
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000124 2005 39
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001230 14114 10
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001318 2803 83
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000700 2920 29
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000706 6509 10
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001218 5776 27
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000204 6300 88
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001222 4495 2
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000421 2211 6
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001246 1864 85
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000235 11185 10
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000734 2455 2
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001439 5433 59
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000792 3200 18
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000502 1081 22
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001384 15831 65 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000537 1385 100
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000948 10169 62
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001112 617 73
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000821 2004 8
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000499 2642 66
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000302 5533 41 40
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000514 5663 74
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000244 1725 65
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000472 12160 7 8
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001327 2778 29
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000519 4322 90
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000678 2550 3
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000647 11955 70
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001024 3803 100
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000325 1815 15
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001021 116858 52 5 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000053 16708 51 14
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000097 1794 98
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000886 1904 44
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001365 46289 66 26 65
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001470 4830 98 36 71
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000486 1326 36
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000652 7905 64
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000396 2224 37
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001286 1537 28
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000646 5278 22
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000074 3008 41
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000794 5161 14
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000216 1828 27
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000466 2590 49
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001113 3842 8
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001117 3042 87
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000515 2908 31
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000636 5256 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000986 1903 15
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001236 3825 62 26 60
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000305 11727 43
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001434 6746 94
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000851 6616 93
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000474 1174 99
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000781 1889 13
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001359 1458 69
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001258 443 97
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001084 3735 79
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001416 3173 99
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000060 2943 28
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001108 3037 72
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001490 1050 81
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000650 5272 23
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001041 2370 57
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000959 22413 38
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000056 7036 76
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001266 6059 72
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001205 3095 8
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001020 350 90
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000231 2533 89
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000395 2634 74
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001299 6546 45
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000185 1231 70
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001092 7065 74
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000037 3034 89
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000393 1948 47
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000968 1346 15
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000289 4367 19
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001462 3395 49
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000465 2178 47
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000221 8251 43
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000649 6856 41
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001279 2489 37
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000607 4309 77
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001562 5880 90
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001158 1104 50
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000983 3099 74
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001139 2919 37
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000351 3118 93
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000230 7028 27
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001141 369 54 3
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001248 4923 66
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001283 4015 70
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000874 6048 64
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001473 4031 83
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000455 962 18
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000438 3828 100
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000666 1747 65
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001392 694 54
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000473 1888 37
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000270 5283 33
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001169 4171 56
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000376 3826 37
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000286 6678 71
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001148 3213 68
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000345 21181 49
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001518 2551 49
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000262 7374 16 70
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000594 2914 86
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000539 4307 88
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001198 1778 77
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001186 4567 69 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000656 5975 60 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001367 6387 90
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000342 4084 75
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000394 1065 97
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000274 1620 3
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001165 6464 59
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000815 13810 40 41
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000247 4435 7
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001417 4163 75
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000434 8919 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001142 3443 52
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000548 6052 87
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001264 3935 100
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000825 9949 63
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000283 5059 71
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000245 9936 55 0
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000226 1879 15
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000064 3834 33
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001014 30239 62
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000899 1715 16
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000920 4373 21
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000155 5237 51
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001547 2070 92
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000930 10931 2
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000112 14469 65 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001280 2901 5
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001042 4701 100
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000667 4664 67
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000795 3305 50
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000885 2565 53
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000023 1717 68
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000457 8375 19
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000720 2549 24
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000937 944 54
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001101 27170 99
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000182 16733 53
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001149 4250 38
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001216 6030 100
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001456 13299 55
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001555 1851 50
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001357 2444 100
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000086 1710 68
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001124 5617 48
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000837 635 36
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000123 6511 82
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000657 4153 24
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001231 978 39
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000343 2327 38
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000335 2226 81
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000682 5205 59
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000970 7000 97
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000863 359 50
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000826 2418 77
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001100 4541 71
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000776 5901 92
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000878 3167 72
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000958 2075 36
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001436 5162 0
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000369 2397 77
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000621 2306 16 70
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000838 2290 7
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000093 3082 98
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000658 19305 71 56
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000494 1417 88
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001009 4179 51
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000804 9294 0
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000354 3667 76
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000603 2064 73
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000485 1738 16
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000068 4780 24
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000193 3781 3
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000598 5212 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001388 3513 75
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000532 8717 51
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000476 3262 27
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001411 8914 1
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001393 935 54
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000898 903 47
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000228 13656 86
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001171 2958 71 46
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000935 1216 31
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001371 6792 31
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000753 875 89
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000362 6990 93
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000370 4255 33
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001035 7968 42
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000153 6004 60 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001005 4750 73
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000722 857 57
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000440 1973 46 14
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001426 3255 96
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000431 4088 74
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001443 2906 69
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001457 2518 53
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001513 12858 99
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001179 4996 10
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001559 26535 64 26 65
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001322 3615 42
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001453 7727 51
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000727 4623 6
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000733 4040 69
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001323 5210 61
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000760 5739 48
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000994 2550 29
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000540 6237 99
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001096 2977 4
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000403 2189 12
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000108 14414 4
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000675 3803 86
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001442 6993 5 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000644 4184 19
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001569 1585 97
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000435 1634 39
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000828 3765 24
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000237 1748 23
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001031 7130 27
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000005 4145 71
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000687 5147 9
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000535 6348 86
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001161 2690 3
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000661 5143 72 21 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000924 928 44
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001551 3069 61
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001189 9752 61
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000176 6592 87
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000787 4773 28
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000506 1863 68
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000150 5907 83
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001273 6684 79
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001131 5909 3
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000218 1734 95
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001554 2202 2
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000143 4697 5 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000777 2540 24
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001056 1753 85
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001036 2096 90
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001191 5178 12
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001565 13635 40 41
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000202 6116 88
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000275 1619 40
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000391 6268 16
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000663 1292 95
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001046 10880 1
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001334 5460 80
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001130 9957 53
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000783 3767 72
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001345 3657 22
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001071 2758 59
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001050 2519 74
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001356 1550 14
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001269 812 89
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000918 892 7
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000936 22158 52 5 26 41
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000634 7562 71
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001145 2145 63
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000130 3034 34
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001295 4143 82
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001402 4347 56
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000280 4283 51
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000387 2229 94
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000154 2737 1
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000171 3586 28
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000869 6731 48
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000590 3202 51
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000329 5790 32
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001288 6373 12
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000975 437 15
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000845 7130 54
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001440 2535 28
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001415 2464 74
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000553 2132 10
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000929 3051 64
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000925 15245 38
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001204 1607 85
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000350 3061 76
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000802 13431 97
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001188 2707 93 46
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000178 4036 67
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001566 1577 95
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000192 1308 31 29
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000288 3265 3
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000527 901 3
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000952 4550 42
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000550 808 13
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000404 7084 12
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001019 1588 57
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000149 4164 41
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001335 6532 48
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000317 4759 93
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000842 6675 35
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001262 6714 95
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000752 1694 83
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001055 5325 16
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001489 3738 79
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000995 5688 94
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000513 4922 97
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000586 3900 9
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000855 3071 47
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000938 4338 34
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001294 13460 56
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000027 8243 61
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001107 5452 77
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000114 35194 63
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001515 4413 41
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000766 5843 72
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001368 4966 64
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000337 2254 10
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000441 3301 71
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000165 7147 100
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000843 4487 77
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000180 5627 79
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000895 4226 41
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001238 44209 52 41
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001173 2730 54
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001331 7781 70 16
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000963 2100 37
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000614 1049 53
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000654 3967 35
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001506 20704 49
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000648 11125 34
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001570 1494 99
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001015 869 14
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000140 5715 42
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000089 640 47
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001353 5642 56
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000816 3936 28
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000072 12444 38
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001567 3523 74
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000853 3704 13
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000420 2297 94
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000944 3306 74
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000177 3924 89
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001176 3915 77
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000312 5174 77
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000347 1980 43
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000818 19190 40 41
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000623 2501 49
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000501 3445 7 8
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000653 4397 93 37
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000751 4659 77
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001329 2165 31
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001425 6314 74
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001535 17969 53
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000510 3745 37
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000120 927 68
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001065 2129 68
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000196 4620 56
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000892 35997 86
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001154 930 19 0
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000643 2691 17
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001350 5522 42 46
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001094 6626 19
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000758 5956 75
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000199 3515 14
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000111 11100 65 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001044 580 36 37
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000339 2083 7
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000571 2912 41
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000236 1430 53
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000836 3856 37
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001017 7147 43
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000757 6066 90
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000659 4201 13
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000533 5397 99
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001419 3759 89
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000449 2099 79
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000789 1279 76
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001539 3159 31 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000849 3275 33 38
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001110 3458 99
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001183 23664 52 5 26 41
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001479 1310 17
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000234 9762 45
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001305 6462 92
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001285 6853 72
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000908 5010 86
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001398 5391 57
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000083 5494 85
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000128 9007 55
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000013 4786 17
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000099 3420 99
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000291 333 55
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001180 3973 63
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001249 1985 53
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000931 4010 58
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000755 2588 74
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001312 2189 57
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000225 9020 0
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001430 2901 7
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000812 6449 52
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000191 4753 88
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000481 16895 49
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000588 3601 30
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001203 2988 86
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000215 5861 83
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000779 2188 98
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000137 12686 34
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000960 4582 82
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000101 6200 90
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000417 5550 81
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000214 2741 2
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000914 5353 17
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000241 49423 52 5 26 41
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001438 8011 10 99
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000469 2372 85
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000021 981 14
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000198 5043 0
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000061 3711 72
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001498 2299 61
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001474 5188 10
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000859 9502 62 26
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000102 3841 4
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001160 6496 42
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000901 6896 87
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000791 4543 40
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000004 1011 23 22
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000006 2009 96
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000007 14481 44
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000011 2372 78
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000026 6233 91
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000028 4375 32
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000039 6818 91
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000045 7059 78 92
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000046 5335 32
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000051 3479 11
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000058 3423 20
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000062 447 50
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000073 2966 92
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000085 6620 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000113 2583 32
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000129 5756 78
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000131 3918 21 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000173 5745 21 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000179 5055 8
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000188 16160 39
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000211 2962 96
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000220 7377 39
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000238 3078 32
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000242 1407 50
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000250 6360 8
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000254 6291 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000273 3855 22 23
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000278 6454 21 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000285 5786 21 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000292 2278 84
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000293 7003 44
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000308 7261 39
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000319 4163 92
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000324 4469 6
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000353 2164 22 23
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000355 19377 50
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000357 3804 21 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000367 6671 78 44
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000372 8818 35
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000374 3651 91
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000379 25421 50
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000392 3311 22
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000405 5514 23
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000412 6220 11
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000413 1280 30
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000423 6277 91
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000426 4590 96
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000429 4148 96
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000437 6132 21 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000442 4648 39
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000443 8741 35
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000444 4710 67
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000448 3012 23 22
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000450 851 96
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000461 3722 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000464 21301 67
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000504 2180 20
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000505 7144 20 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000538 5472 39
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000541 877 84
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000549 2147 22
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000556 2029 11
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000558 6027 11
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000560 1501 8
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000569 2642 22
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000577 4928 11
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000591 1002 84
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000593 1680 78
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000601 12955 8
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000602 6233 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000611 5358 32
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000615 6196 96
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000617 9805 20
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000622 6159 23 21 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000624 3593 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000626 7655 67
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000635 945 20
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000664 2578 6
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000665 10343 67
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000671 3501 92
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000672 1227 30
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000673 5101 21 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000689 3899 84
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000691 5309 78
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000698 509 20
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000701 1937 84
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000714 5382 6
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000716 20100 8
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000718 1217 8
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000723 6786 96
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000724 4349 21 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000730 3191 21 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000737 4429 20
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000740 12340 20
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000756 1078 91
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000762 3989 96
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000765 3513 78
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000767 2316 6
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000771 6694 11
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000785 2635 21 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000786 2940 22
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000793 50149 67
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000796 3818 22 23
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000798 3260 23
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000807 4777 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000814 5433 92
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000839 11481 39
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000844 5081 21 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000846 815 78 92
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000847 7079 32 30
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000854 6813 78
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000864 5863 44
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000873 1043 6
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000882 7451 35
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000887 11591 39
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000896 6799 39
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000897 3602 22
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000903 9454 8
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000940 2794 21 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000946 833 6
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000950 32882 35
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000964 1897 6
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000981 838 22
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000987 5543 92
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000989 5804 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0000991 2467 84
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001008 2984 39
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001038 3633 6
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001039 7040 78
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001040 5306 78
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001058 24146 35
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001064 8272 8
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001066 4569 78
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001072 8546 35
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001075 6337 11
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001076 1939 21 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001078 2923 96
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001079 14723 50
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001080 2072 92
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001081 3513 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001098 4986 39
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001114 1453 78
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001118 2109 84
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001123 7704 67
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001127 5425 32
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001129 2029 78
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001134 5513 21 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001135 1428 30
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001146 6519 11
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001153 3849 84
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001159 18108 44
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001162 3621 67
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001163 3022 32
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001164 25363 35
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001168 3289 91
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001174 7017 92
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001182 3580 6
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001194 3870 23
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001195 22487 44
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001201 12387 67
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001202 1374 96
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001207 26486 67
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001209 10531 44
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001219 4597 50
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001223 3480 92 30
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001229 7206 35
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001235 25186 67
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001247 2796 11
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001255 31574 44
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001257 7430 8 6
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001267 3779 11
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001268 2839 78
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001270 7944 20
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001276 1867 23
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001281 2111 50
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001307 6137 20
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001309 2544 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001313 5217 22
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001314 10343 44
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001319 1666 96
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001324 4914 6
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001325 5252 23
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001339 4687 21 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001343 12482 8
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001358 6583 23
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001369 17282 50
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001389 4245 91
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001391 9302 44
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001409 5177 84
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001431 10748 35
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001433 587 30
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001446 8567 44
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001447 6894 6
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001452 2181 96
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001459 20368 50
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001460 871 23 22
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001463 3197 96
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001468 5536 92
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001483 1247 20
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001484 6148 84
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001495 15842 50
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001496 4528 30
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001508 5595 30
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001512 1583 30
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001522 1388 91
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001527 6377 78
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001531 6512 91
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001532 7163 25
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001549 3446 30
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001556 3093 84
+/home/lzy/i3d_extraction/pytorch-i3d/thu14 0001558 4281 21 25
