@@ -4,9 +4,12 @@ import os
 
 
 
-a = np.load('ActivityNet1.2-Annotations/duration.npy', allow_pickle=True)
+# a = np.load('ActivityNet1.2-Annotations/labels_all.npy', allow_pickle=True)
+a = np.load('labels_all.npy', allow_pickle=True)
 
 print('a')
+
+
 
 # def gen_classlist():
 #     output = []
