@@ -33,6 +33,8 @@ if __name__ == '__main__':
     optimizer = optim.Adam(model.parameters(), lr=args.lr, weight_decay=0.0005)
 
     for itr in range(args.max_iter):
+        if itr == 10000:
+            optimizer = optim.Adam(model.parameters(), lr=args.lr / 10, weight_decay=0.0005)
         train(itr, dataset, args, model, optimizer, logger, device)
         if itr % 1 == 0 and not itr == 0:
             torch.save(model.state_dict(), './ckpt/' + args.model_name + '.pkl')

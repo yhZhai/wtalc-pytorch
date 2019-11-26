@@ -3,10 +3,21 @@ import time
 from scipy.signal import savgol_filter
 import sys
 import scipy.io as sio
+import os
 
 
 def str2ind(categoryname, classlist):
     return [i for i in range(len(classlist)) if categoryname == classlist[i]][0]
+
+def get_fps(video_name):
+    fps = 30
+    with open(os.path.join('ActivityNet1.3-Annotations', 'misc_fps.txt'), 'r') as f:
+        for line in f:
+            line = line.replace('\n', '').split(' ')
+            if line[0] == video_name:
+                fps = float(line[1])
+                break
+    return fps
 
 
 def smooth(v):
@@ -18,13 +29,14 @@ def smooth(v):
     return savgol_filter(v, l, 1)  # savgol_filter(v, l, 1) #0.5*(np.concatenate([v[1:],v[-1:]],axis=0) + v)
 
 
-def filter_segments(segment_predict, videonames, ambilist, factor):
+def filter_segments(segment_predict, videonames, ambilist):
     ind = np.zeros(np.shape(segment_predict)[0])
     for i in range(np.shape(segment_predict)[0]):
         vn = videonames[int(segment_predict[i, 0])]
+        fps = get_fps(vn)
         for a in ambilist:
             if a[0] == vn:
-                gt = range(int(round(float(a[2]) * factor)), int(round(float(a[3]) * factor)))
+                gt = range(int(round(float(a[2]) * fps / 16)), int(round(float(a[3]) * fps / 16)))
                 pd = range(int(segment_predict[i][1]), int(segment_predict[i][2]))
                 IoU = float(len(set(gt).intersection(set(pd)))) / float(len(set(gt).union(set(pd))))
                 if IoU > 0:
@@ -37,20 +49,22 @@ def getLocMAP(predictions, th, annotation_path, args):
     train_set = 'validation' if 'thumos' in annotation_path.lower() else 'training'
     val_set = 'test' if 'thumos' in annotation_path.lower() else 'validation'
     gtsegments = np.load(annotation_path + '/segments.npy', allow_pickle=True)
-    gtlabels = np.load(annotation_path + '/labels.npy', allow_pickle=True)
+    # gtlabels = np.load(annotation_path + '/labels.npy', allow_pickle=True)
     gtlabels = np.load(annotation_path + '/labels.npy', allow_pickle=True)
     videoname = np.load(annotation_path + '/videoname.npy', allow_pickle=True);
-    videoname = np.array([v.decode('utf-8') for v in videoname])
+    videoname = np.array([v for v in videoname])
     subset = np.load(annotation_path + '/subset.npy', allow_pickle=True);
-    subset = np.array([s.decode('utf-8') for s in subset])
+    subset = np.array([s for s in subset])
     classlist = np.load(annotation_path + '/classlist.npy', allow_pickle=True);
-    classlist = np.array([c.decode('utf-8') for c in classlist])
+    classlist = np.array([c for c in classlist])
     duration = np.load(annotation_path + '/duration.npy', allow_pickle=True)
     ambilist = annotation_path + '/Ambiguous_test.txt'
     if args.feature_type == 'UNT':
         factor = 10.0 / 4.0
     else:
-        factor = 25.0 / 16.0
+        factor = 27.6 / 16.0
+
+    # TODO
 
     ambilist = list(open(ambilist, 'r'))
     ambilist = [a.strip('\n').split(' ') for a in ambilist]
@@ -122,7 +136,7 @@ def getLocMAP(predictions, th, annotation_path, args):
         # Get list of all predictions for class c
         for i in range(len(predictions)):
             tmp = smooth(predictions[i][:, c])
-            threshold = np.max(tmp) - (np.max(tmp) - np.min(tmp)) * 0.75
+            threshold = np.max(tmp) - (np.max(tmp) - np.min(tmp)) * 0.9
             vid_pred = np.concatenate([np.zeros(1), (tmp > threshold).astype('float32'), np.zeros(1)], axis=0)
             vid_pred_diff = [vid_pred[idt] - vid_pred[idt - 1] for idt in range(1, len(vid_pred))]
             s = [idk for idk, item in enumerate(vid_pred_diff) if item == 1]
@@ -134,7 +148,7 @@ def getLocMAP(predictions, th, annotation_path, args):
                     detection_results[i].append(
                         [classlist[c], s[j], e[j], np.max(tmp[s[j]:e[j]]) + 0.7 * c_score[i][c]])
         segment_predict = np.array(segment_predict)
-        segment_predict = filter_segments(segment_predict, videoname, ambilist, factor)
+        segment_predict = filter_segments(segment_predict, videoname, ambilist)
 
         # Sort the list of predictions for class c based on score
         if len(segment_predict) == 0:
@@ -151,8 +165,10 @@ def getLocMAP(predictions, th, annotation_path, args):
         for i in range(len(segment_predict)):
             flag = 0.
             for j in range(len(segment_gt)):
+                vn = videoname[int(segment_gt[j][0])]
+                fps = get_fps(vn)
                 if segment_predict[i][0] == segment_gt[j][0]:
-                    gt = range(int(round(segment_gt[j][1] * factor)), int(round(segment_gt[j][2] * factor)))
+                    gt = range(int(round(segment_gt[j][1] * fps / 16)), int(round(segment_gt[j][2] * fps / 16)))
                     p = range(int(segment_predict[i][1]), int(segment_predict[i][2]))
                     IoU = float(len(set(gt).intersection(set(p)))) / float(len(set(gt).union(set(p))))
                     if IoU >= th:
@@ -176,20 +192,21 @@ def getLocMAPs(predictions, iou_thresholds, annotation_path, args):
     train_set = 'validation' if 'thumos' in annotation_path.lower() else 'training'
     val_set = 'test' if 'thumos' in annotation_path.lower() else 'validation'
     gtsegments = np.load(annotation_path + '/segments.npy', allow_pickle=True)
-    gtlabels = np.load(annotation_path + '/labels.npy', allow_pickle=True)
+    # gtlabels = np.load(annotation_path + '/labels.npy', allow_pickle=True)
     gtlabels = np.load(annotation_path + '/labels.npy', allow_pickle=True)
     videoname = np.load(annotation_path + '/videoname.npy', allow_pickle=True);
-    videoname = np.array([v.decode('utf-8') for v in videoname])
+    videoname = np.array([v for v in videoname])
     subset = np.load(annotation_path + '/subset.npy', allow_pickle=True);
-    subset = np.array([s.decode('utf-8') for s in subset])
+    subset = np.array([s for s in subset])
     classlist = np.load(annotation_path + '/classlist.npy', allow_pickle=True);
-    classlist = np.array([c.decode('utf-8') for c in classlist])
+    classlist = np.array([c for c in classlist])
     duration = np.load(annotation_path + '/duration.npy', allow_pickle=True)
     ambilist = annotation_path + '/Ambiguous_test.txt'
     if args.feature_type == 'UNT':
         factor = 10.0 / 4.0
     else:
-        factor = 25.0 / 16.0
+        factor = 27.6 / 16.0
+
 
     ambilist = list(open(ambilist, 'r'))
     ambilist = [a.strip('\n').split(' ') for a in ambilist]
@@ -262,7 +279,7 @@ def getLocMAPs(predictions, iou_thresholds, annotation_path, args):
         # Get list of all predictions for class c
         for i in range(len(predictions)):
             tmp = smooth(predictions[i][:, c])
-            threshold = np.max(tmp) - (np.max(tmp) - np.min(tmp)) * 0.8
+            threshold = np.max(tmp) - (np.max(tmp) - np.min(tmp)) * 1.0
             vid_pred = np.concatenate([np.zeros(1), (tmp > threshold).astype('float32'), np.zeros(1)], axis=0)
             vid_pred_diff = [vid_pred[idt] - vid_pred[idt - 1] for idt in range(1, len(vid_pred))]
             s = [idk for idk, item in enumerate(vid_pred_diff) if item == 1]
@@ -274,14 +291,13 @@ def getLocMAPs(predictions, iou_thresholds, annotation_path, args):
                     detection_results[i].append(
                         [classlist[c], s[j], e[j], np.max(tmp[s[j]:e[j]]) + 0.7 * c_score[i][c]])
         segment_predict = np.array(segment_predict)
-        segment_predict = filter_segments(segment_predict, videoname, ambilist, factor)
+        segment_predict = filter_segments(segment_predict, videoname, ambilist)
 
         # Sort the list of predictions for class c based on score
         if len(segment_predict) == 0:
             return 0
         segment_predict = segment_predict[np.argsort(-segment_predict[:, 3])]
 
-        # Create gt list
         segment_gt = [[i, gtsegments[i][j][0], gtsegments[i][j][1]] for i in range(len(gtsegments)) for j in
                       range(len(gtsegments[i])) if str2ind(gtlabels[i][j], classlist) == c]
         gtpos = len(segment_gt)
@@ -328,6 +344,7 @@ def getLocMAPs(predictions, iou_thresholds, annotation_path, args):
 
 def getDetectionMAP(predictions, annotation_path, args):
     iou_list = [0.5, 0.55, 0.6, 0.65, 0.7, 0.75, 0.8, 0.85, 0.9, 0.95]
+    # iou_list = [0.5]
     dmap_list = getLocMAPs(predictions, iou_list, annotation_path, args)
     # dmap_list = []
     # for iou in iou_list:

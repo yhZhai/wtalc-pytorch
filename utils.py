@@ -2,7 +2,7 @@ import numpy as np
 
 
 def str2ind(categoryname, classlist):
-    return [i for i in range(len(classlist)) if categoryname == classlist[i].decode('utf-8')][0]
+    return [i for i in range(len(classlist)) if categoryname == classlist[i]][0]
 
 
 def strlist2indlist(strlist, classlist):

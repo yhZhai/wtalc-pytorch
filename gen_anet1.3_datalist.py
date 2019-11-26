@@ -28,15 +28,16 @@ def gen_datalist():
             # subset_array.append("validation")
     database = load_json()
     duration_array = []
-    segments_list = set()
+    segments_list = list()
     for video_name in video_name_array:
         # duration_array.append(database[video_name]['duration'])
-
+        tmp = []
         for seg in database[video_name]['annotations']:
-            segments_list.add(seg['label'])
-    segments_list = np.array(sorted(list(segments_list)))
+            tmp.append(seg['label'])
+        segments_list.append(tmp)
+    # segments_list = np.array(sorted(list(segments_list)))
 
-    np.save("classlist.npy", segments_list)
+    np.save("labels.npy", segments_list)
     # duration_array = np.array(duration_array)
     # np.save("duration.npy", duration_array)
     print('a')
